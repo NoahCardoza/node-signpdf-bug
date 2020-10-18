@@ -1,0 +1,25 @@
+{
+  "name": "node-signpdf-bug",
+  "version": "1.0.0",
+  "description": "Example repo for bug in node-signpdf revolving around fillable PDFs.",
+  "main": "index.js",
+  "dependencies": {
+    "node-signpdf": "^1.3.2",
+    "pdf-signer": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahCardoza/node-signpdf-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahCardoza/node-signpdf-bug/issues"
+  },
+  "homepage": "https://github.com/NoahCardoza/node-signpdf-bug#readme"
+}
